@@ -1,0 +1,16 @@
+button, input, label {
+  display: block;
+}
+
+label {
+  margin-top: 1rem;
+}
+
+input.error, textarea.error {
+  border: 1px solid tomato;
+  color: tomato;
+}
+
+.error {
+  color: tomato;
+}
